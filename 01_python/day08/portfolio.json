@@ -1,0 +1,32 @@
+[
+    {
+        "name": "HDFC Bank",
+        "sector": "Banking",
+        "investment": 500000,
+        "return_pct": 12
+    },
+    {
+        "name": "TCS",
+        "sector": "IT",
+        "investment": 300000,
+        "return_pct": 8
+    },
+    {
+        "name": "Sun Pharma",
+        "sector": "Pharma",
+        "investment": 200000,
+        "return_pct": 15
+    },
+    {
+        "name": "UGRO Capital",
+        "sector": "NBFC",
+        "investment": 150000,
+        "return_pct": 20
+    },
+    {
+        "name": "Lupin",
+        "sector": "Pharma",
+        "investment": 250000,
+        "return_pct": 10
+    }
+]
